@@ -1,0 +1,19 @@
+{
+	"properties": [
+		{
+			"name": "azure.client-id",
+			"type": "java.lang.String",
+			"description": "A description for 'azure.client-id'"
+		},
+		{
+			"name": "azure.tenant-id",
+			"type": "java.lang.String",
+			"description": "A description for 'azure.tenant-id'"
+		},
+		{
+			"name": "azure.client-secret",
+			"type": "java.lang.String",
+			"description": "A description for 'azure.client-secret'"
+		}
+	]
+}
