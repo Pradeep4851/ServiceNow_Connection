@@ -12,6 +12,8 @@ import lombok.ToString;
 @NoArgsConstructor
 @AllArgsConstructor
 public class EmailBody {
+
+	
 	
 	private String fromEmail;
 	private String toEmail;
